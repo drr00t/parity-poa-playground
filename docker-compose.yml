@@ -1,4 +1,4 @@
-version: '2.1'
+version: '2'
 services:
   authority0:
     image: ethcore/parity:${PARITY_VERSION}
